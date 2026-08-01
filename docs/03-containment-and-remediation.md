@@ -69,7 +69,6 @@ Now let's synthesize the entire lab into a comprehensive, executive-ready Incide
 
 ### Create `INCIDENT-REPORT.md` in the root folder:
 
-```markdown
 # Enterprise Security Incident Report: Compromised IAM Credential & Unauthorized Privilege Escalation
 
 **Incident Reference:** INC-2026-0801-AWS
