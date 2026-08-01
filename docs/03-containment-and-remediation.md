@@ -24,7 +24,7 @@ Attach an inline explicit deny policy to `dev-analyst` to kill all active AWS CL
     }
   ]
 }
-```
+````
 
 ---
 
